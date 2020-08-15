@@ -7,4 +7,7 @@ class Animal{
     public void eat(){
         System.out.println("沙雕");
     }
+    public void sleep(){
+        System.out.println("憨憨");
+    }
 }
